@@ -1,0 +1,8 @@
+#!/bin/bash
+
+for I in *
+do
+    convert $I -resize "200x200^" -gravity center -crop 200x200+0+0 +repage 200x200.$I.jpg
+done
+
+exit 0
