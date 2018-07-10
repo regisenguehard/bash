@@ -1,0 +1,14 @@
+#!/bin/sh
+
+if test -z "$1"
+then
+    echo "Il me faut un nom de domaine"
+    echo "Usage: mx-lookup DOMAIN"
+    exit 255
+fi
+
+RESULT=`curl 'https://mxtoolbox.com/Public/Lookup.aspx/DoLookup2' -H 'Content-Type: application/json; charset=UTF-8' -H 'Accept: application/json, text/javascript, */*; q=0.01' --data-binary '{"inputText":"blacklist:'$1'","resultIndex":1}'  2>&1 | tr ' ' "\n"`
+TIMEOUT=`echo "$RESULT" | grep TIMEOUT -c`
+OK=`echo "$RESULT" | grep OK -c`
+LISTED=`echo "$RESULT" | grep LISTED -c`
+echo "OK : $OK / LISTED : $LISTED / TIMEOUT : $TIMEOUT"
