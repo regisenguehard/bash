@@ -1,3 +1,6 @@
 http://www.sncf.com/fr/geolocalisation
 http://www.marinetraffic.com/en/ais/home/centerx:1/centery:46/zoom:5
 https://www.flightradar24.com/
+
+
+https://www.lemonde.fr/verification/
