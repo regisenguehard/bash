@@ -4,6 +4,7 @@ Transports :
 * Maritime : http://www.marinetraffic.com/en/ais/home/centerx:1/centery:46/zoom:5
 * Aviation : https://www.flightradar24.com/
 * Espace : http://stuffin.space/
+* Satellite : https://satmap.space/
 
 
 Sites fiable ?
