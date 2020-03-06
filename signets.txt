@@ -17,3 +17,4 @@ Sites fiable ?
 Reverse Image Search :
 
 * https://www.tineye.com/
+* https://images.google.com/
