@@ -22,3 +22,4 @@
 # Statistiques Trafic Internet :
 
 * https://www.franceix.net/fr/technical/traffic-statistics/
+* https://www.thousandeyes.com/outages
