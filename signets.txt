@@ -23,3 +23,6 @@
 
 * https://www.franceix.net/fr/technical/traffic-statistics/
 * https://www.thousandeyes.com/outages
+
+# Exploits
+* https://www.exploit-db.com/google-hacking-database
