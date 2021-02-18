@@ -13,6 +13,18 @@ CloudFlare : blocage des logiciels malveillants et du contenu pour adultes
 	* 2606: 4700: 4700 :: 1113
 	* 2606: 4700: 4700 :: 1003
 
+Quad9 blocage menaces de type malware et validation DNSSEC
+	* IPv4 : 9.9.9.9. et 149.112.112.112
+	* IPv6 : 2620:fe::fe
+
+Quad9 avec ECS
+	*  IPv4 : 9.9.9.11 et 149.112.112.11
+	* IPv6 : 2620:fe::11
+
+Quad9 non sécurisée
+	* IPv4 : 9.9.9.10 et 149.112.112.10
+	* IPv6 : 2620:fe::10
+
 Google
 	* 8.8.8.8
 	* 8.8.4.4
