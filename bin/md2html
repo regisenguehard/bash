@@ -1,0 +1,21 @@
+if [ ! -f $1 ];
+then
+    echo "Indiquez le chemin du fichier md !";
+    exit;
+fi
+
+if [ ! -n "$2" ];
+then
+    echo "Indiquez le titre du document.";
+    exit;
+fi
+
+if [ -f $1.html ];
+then
+    echo "Le fichier $1.remark.html de destination existe";
+    exit
+fi
+
+pandoc $1 --css http://ascenseur301.fr/css/github.css --metadata pagetitle="$2" -s -o $1.html
+
+echo "Document généré";

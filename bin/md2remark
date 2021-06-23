@@ -1,0 +1,68 @@
+if [ ! -f $1 ];
+then
+    echo "Indiquez le chemin du fichier md !";
+    exit;
+fi
+
+if [ ! -n "$2" ];
+then
+    echo "Indiquez le titre du document.";
+    exit;
+fi
+
+if [ -f $1.remark.html ];
+then
+    echo "Le fichier $1.remark.html de destination existe";
+    exit
+fi
+
+#pandoc $1 --css http://ascenseur301.fr/css/github.css --metadata pagetitle="$2" -s -o $1.html
+
+touch $1.remark.html
+
+/bin/echo '<!DOCTYPE html>
+<html>
+  <head>
+    <title>' >> $1.remark.html
+echo $2 >> $1.remark.html
+/bin/echo '</title>
+    <meta charset="utf-8">
+    <style>
+      @import url(https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz);
+      @import url(https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic);
+      @import url(https://fonts.googleapis.com/css?family=Ubuntu+Mono:400,700,400italic);
+
+      body { font-family: "Droid Serif"; }
+      h1, h2, h3 {
+        font-family: "Yanone Kaffeesatz";
+        font-weight: normal;
+      }
+      .remark-code, .remark-inline-code { font-family: "Ubuntu Mono"; }
+      img {
+        max-width: 100%;
+      }
+    </style>
+  </head>
+  <body>
+    <textarea id="source">
+
+class: center, middle' >> $1.remark.html;
+
+cat $1 >> $1.remark.html
+
+/bin/echo "</textarea>
+<script src='https://remarkjs.com/downloads/remark-latest.min.js'>
+</script>
+<script>
+    window.addEventListener('DOMContentLoaded', (event) => {
+    let srcMarkdown = document.getElementById('source');
+    srcMarkdown.innerHTML = srcMarkdown.innerHTML.replace(/(?:\r\n|\r|\n)#{1,2,3}\s/g, '\r\n---\r\n$&');
+    console.log(srcMarkdown.innerHTML);
+    var slideshow = remark.create();
+});
+    </script>
+  </body>
+</html>" >> $1.remark.html
+
+
+echo "Document ok";
