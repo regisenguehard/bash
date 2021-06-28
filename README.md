@@ -1,4 +1,4 @@
-bash
+# bash
 ====
 
-My bash scripts
+## My bash scripts
