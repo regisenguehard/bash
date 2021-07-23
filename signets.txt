@@ -42,3 +42,6 @@
 * https://regex101.com/
 * https://regexr.com/
 * https://ihateregex.io/
+
+# Media Types / types MIME
+* https://www.iana.org/assignments/media-types/media-types.xhtml
