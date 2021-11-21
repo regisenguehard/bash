@@ -4,7 +4,8 @@
 * Maritime : http://www.marinetraffic.com/en/ais/home/centerx:1/centery:46/zoom:5
 * Aviation : https://www.flightradar24.com/
 * Espace : http://stuffin.space/
-* Satellite : https://satmap.space/
+* Satellites : https://satmap.space/
+* Satellites : https://eyes.nasa.gov/apps/earth/#/
 * Antennes mobiles : https://www.cartoradio.fr/index.html
 * Antennes mobiles : https://www.anfr.fr/gestion-des-frequences-sites/lobservatoire/lobservatoire-en-carte2/
 * Antennes mobiles monde : https://alpercinar.com/open-cell-id/
