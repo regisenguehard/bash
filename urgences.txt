@@ -4,7 +4,7 @@ OpenNIC
 	* 87.216.170.85
 
 CloudFlare
-	* 1.1.1.1
+	* 1.1.1.1 // 1dot1dot1dot1.cloudflare-dns.com
 	* 1.0.0.1
 
 CloudFlare : blocage des logiciels malveillants et du contenu pour adultes
@@ -14,7 +14,7 @@ CloudFlare : blocage des logiciels malveillants et du contenu pour adultes
 	* 2606: 4700: 4700 :: 1003
 
 Quad9 blocage menaces de type malware et validation DNSSEC
-	* IPv4 : 9.9.9.9. et 149.112.112.112
+	* IPv4 : 9.9.9.9. et 149.112.112.112	// dns.quad9.net
 	* IPv6 : 2620:fe::fe
 
 Quad9 avec ECS
