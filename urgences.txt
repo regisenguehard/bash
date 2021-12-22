@@ -49,6 +49,13 @@ OVH
 	* 91.121.164.227
 	* 188.165.197.144
 
+dns.watch
+	* 84.200.69.80
+	* 84.200.70.40
+	* 2001:1608:10:25::1c04:b12f
+	* 2001:1608:10:25::9249:d69b
+	* DoH : https://resolver2.dns.watch/dns-query
+
 French Data Network, Fournisseur d'Accès associatif à Internet depuis 1992 : www.fdn.fr
 	* 80.67.169.12
 	* 2001:910:800::12
