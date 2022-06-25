@@ -60,3 +60,11 @@ dns.watch
 French Data Network, Fournisseur d'Accès associatif à Internet depuis 1992 : www.fdn.fr
 * 80.67.169.12
 * 2001:910:800::12
+
+Yandex
+* 77.88.8.88
+* 77.88.8.2
+
+Verisign Public
+* 64.6.64.6
+* 64.6.65.6
