@@ -14,6 +14,10 @@
 * Câble sous-marin : https://www.submarinecablemap.com/
 * Éclairs : https://www.blitzortung.org/fr/live_lightning_maps.php
 
+# Risques :
+
+* https://www.riskmap.com/?lat=46.32066700489099&lng=1.1139763891696932&panels=overlays%2Ctimeframe&t2=1&zoom=6
+* https://rsoe-edis.org/eventMap
 
 # Sites fiable ?
 
