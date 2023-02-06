@@ -1,8 +1,14 @@
 # Positions (transports) :
 
 * ferroviaire : http://www.sncf.com/fr/geolocalisation
-* Maritime : http://www.marinetraffic.com/en/ais/home/centerx:1/centery:46/zoom:5
-* Aviation : https://www.flightradar24.com/
+* Maritime :
+  * http://www.marinetraffic.com/en/ais/home/centerx:1/centery:46/zoom:5
+  * https://www.vesselfinder.com/fr
+* Aviation :
+  * https://www.flightradar24.com/
+  * https://globe.adsbexchange.com/
+  * https://www.radarbox.com/
+  * https://fr.flightaware.com/
 * Espace : http://stuffin.space/
 * Satellites : https://satmap.space/
 * Satellites : https://eyes.nasa.gov/apps/earth/#/
@@ -13,6 +19,7 @@
 * La production d'électricité par filière : https://www.rte-france.com/eco2mix/la-production-delectricite-par-filiere
 * Câble sous-marin : https://www.submarinecablemap.com/
 * Éclairs : https://www.blitzortung.org/fr/live_lightning_maps.php
+* Bâtiments : https://osmbuildings.org/?lat=49.38684&lon=2.78821&zoom=15.0&tilt=30
 
 # Risques :
 
