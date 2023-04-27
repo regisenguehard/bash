@@ -42,24 +42,34 @@
 * https://www.thousandeyes.com/outages
 
 # Exploits
+
 * https://www.exploit-db.com/google-hacking-database
 
 # OSINT
+
 * https://synapsint.com/
 
 # Performance
+
 * ping : https://tools.keycdn.com/performance?url=https://www.enguehard.info
 * http2 : https://tools.keycdn.com/http2-test
 * Référencement : https://www.dareboost.com/fr
 
 # ASN / BGP
+
 * https://bgp.he.net/
 * https://bgp.tools/
 
 # REGEX
+
 * https://regex101.com/
 * https://regexr.com/
 * https://ihateregex.io/
 
 # Media Types / types MIME
+
 * https://www.iana.org/assignments/media-types/media-types.xhtml
+
+# DPE
+
+* https://particulier.gorenove.fr/map
