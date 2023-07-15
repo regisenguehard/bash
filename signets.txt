@@ -70,6 +70,8 @@
 
 * https://www.iana.org/assignments/media-types/media-types.xhtml
 
-# DPE
+# Informations .gouv.fr
 
 * https://particulier.gorenove.fr/map
+* https://www.georisques.gouv.fr/
+* https://vigieau.gouv.fr/
