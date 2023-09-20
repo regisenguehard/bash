@@ -25,6 +25,7 @@
 
 * https://www.riskmap.com/?lat=46.32066700489099&lng=1.1139763891696932&panels=overlays%2Ctimeframe&t2=1&zoom=6
 * https://rsoe-edis.org/eventMap
+* https://pedagueau.shinyapps.io/phyteauviz/
 
 # Sites fiable ?
 
