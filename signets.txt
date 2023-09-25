@@ -77,3 +77,15 @@
 * https://particulier.gorenove.fr/map
 * https://www.georisques.gouv.fr/
 * https://vigieau.gouv.fr/
+
+# Tests DNS
+
+* https://intodns.com/
+* https://nstools.fr/tools
+
+# Tests Mails
+
+* https://www.mail-tester.com/
+* https://ssi.economie.gouv.fr/courriel
+* https://multirbl.valli.org/
+* https://mecsa.jrc.ec.europa.eu/fr/
