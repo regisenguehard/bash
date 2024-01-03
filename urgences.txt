@@ -37,6 +37,18 @@ Blocage de pub
 * dns.adguard.com
 * adblock.doh.mullvad.net
 
+dns0.eu :
+* 193.110.81.0
+* 185.253.5.0
+* 2a0f:fc80::
+* 2a0f:fc81::
+
+dns0.eu - Internet sans risque pour les enfants - https://www.dns0.eu/fr/kids :
+* 193.110.81.1
+* 185.253.5.1
+* 2a0f:fc80::1
+* 2a0f:fc81::1
+
 Free
 * 212.27.40.240
 * 212.27.40.241
