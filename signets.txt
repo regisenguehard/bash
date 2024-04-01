@@ -19,6 +19,7 @@
 * Électricité : https://www.electricitymap.org/map
 * La production d'électricité par filière : https://www.rte-france.com/eco2mix/la-production-delectricite-par-filiere
 * Câble sous-marin : https://www.submarinecablemap.com/
+* Câble sous-marin : https://he.net/3d-map/
 * Éclairs : https://www.blitzortung.org/fr/live_lightning_maps.php
 * Bâtiments : https://osmbuildings.org/?lat=49.38684&lon=2.78821&zoom=15.0&tilt=30
 
