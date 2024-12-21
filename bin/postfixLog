@@ -1,0 +1,3 @@
+# for MAC
+
+sudo log stream --predicate '(process == "smtpd") || (process == "smtp")' --i
