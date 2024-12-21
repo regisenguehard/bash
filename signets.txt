@@ -1,6 +1,6 @@
 # Positions (transports) :
 
-* ferroviaire :
+* Ferroviaire :
   * http://www.sncf.com/fr/geolocalisation
   * https://carto.graou.info/
 * Maritime :
@@ -34,7 +34,6 @@
 # Sites fiable ?
 
 * https://www.lemonde.fr/verification/
-
 
 # Reverse Image Search :
 
@@ -75,11 +74,17 @@
 
 * https://www.iana.org/assignments/media-types/media-types.xhtml
 
-# Informations .gouv.fr
+# Informatif (.gouv.fr)
 
-* https://particulier.gorenove.fr/map
-* https://www.georisques.gouv.fr/
-* https://vigieau.gouv.fr/
+* DPE : https://particulier.gorenove.fr/map
+* Risques naturels et technologiques : https://www.georisques.gouv.fr/
+* Restriction d'eau en période de sécheresse : https://vigieau.gouv.fr/
+* Données de valeurs foncières : https://explore.data.gouv.fr/fr/immobilier
+* Valeur foncière : https://app.dvf.etalab.gouv.fr/
+* Historique véhicule : https://histovec.interieur.gouv.fr/histovec/home
+* Mes points permis : https://mespoints.permisdeconduire.gouv.fr/
+* Entrprises : https://www.pappers.fr/
+* Immobilier : https://immobilier.pappers.fr/
 
 # Tests DNS
 
