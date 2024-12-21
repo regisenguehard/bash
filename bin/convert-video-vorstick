@@ -1,0 +1,8 @@
+mkdir vorstick
+for fichier in *
+do
+	echo $fichier;
+	DEST="vorstick/$fichier";
+	ffmpeg -i "$fichier" -vcodec mjpeg -vf scale=128:160 "$DEST" -hide_banner;
+	echo $DEST;
+done

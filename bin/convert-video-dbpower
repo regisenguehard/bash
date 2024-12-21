@@ -1,0 +1,1 @@
+ffmpeg -i 'SOURCE.mp4' -c:v libxvid -vf scale=720:576 'dbpower/DEST.mp4'
