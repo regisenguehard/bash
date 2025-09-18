@@ -60,10 +60,12 @@
 * http2 : https://tools.keycdn.com/http2-test
 * Référencement : https://www.dareboost.com/fr
 
-# ASN / BGP
+# ASN / BGP / IP
 
 * https://bgp.he.net/
 * https://bgp.tools/
+* https://ip.lafibre.info/
+* https://myip.dk/
 
 # REGEX
 
