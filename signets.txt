@@ -89,6 +89,7 @@
 * Mes points permis : https://mespoints.permisdeconduire.gouv.fr/
 * Entrprises : https://www.pappers.fr/
 * Immobilier : https://immobilier.pappers.fr/
+* Qualité de l'eau : https://sante.gouv.fr/sante-et-environnement/eaux/eau
 
 # Tests DNS
 
