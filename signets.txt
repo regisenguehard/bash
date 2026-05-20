@@ -78,7 +78,7 @@
 
 * https://www.iana.org/assignments/media-types/media-types.xhtml
 
-# Informatif (.gouv.fr)
+# Informatifs
 
 * DPE : https://particulier.gorenove.fr/map
 * Risques naturels et technologiques : https://www.georisques.gouv.fr/
@@ -90,6 +90,7 @@
 * Entrprises : https://www.pappers.fr/
 * Immobilier : https://immobilier.pappers.fr/
 * Qualité de l'eau : https://sante.gouv.fr/sante-et-environnement/eaux/eau
+* Website, Email, Connection : https://internet.nl/
 
 # Tests DNS
 
