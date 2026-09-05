@@ -94,6 +94,7 @@
 
 # Tests DNS
 
+* https://dnschecker.org/#TXT/example.com
 * https://intodns.com/
 * https://nstools.fr/tools
 
